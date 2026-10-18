@@ -6,7 +6,9 @@
         "radio": "*",
         "microphone": "*",
         "Libreria CPE": "pkg:Libreria CPE.json",
-        "Mbit_IR_V2": "github:YahboomTechnology/Yahboom_IR_V2#a0709fa88a4222d3452e489894f608f50d369a07"
+        "Mbit_IR_V2": "github:YahboomTechnology/Yahboom_IR_V2#a0709fa88a4222d3452e489894f608f50d369a07",
+        "SuperBitV2": "github:YahboomTechnology/SuperBitLibV2#2dc96afd11a4510601a9c4f55b94ae4b1a6ec229",
+        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4"
     },
     "files": [
         "main.blocks",
